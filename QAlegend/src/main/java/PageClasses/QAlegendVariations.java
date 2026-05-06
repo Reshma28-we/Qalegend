@@ -47,7 +47,7 @@ public class QAlegendVariations {
 }
      public void clickOnSaveVariationOption() {
     	 PageUtilities.clickOnElement(variationsavebutton);
-    	 	 
+    	 System.out.println("Reshma");
     	 
      }
      }
